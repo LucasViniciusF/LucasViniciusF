@@ -32,5 +32,6 @@
     <a href="https://www.linkedin.com/in/lucas-vinicius-ferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://api.whatsapp.com/send?phone=5541991177312&text=Ol%C3%A1!%20Obrigado%20por%20vir%20at%C3%A9%20aqui%2C%20responderei%20o%20mais%20breve%20poss%C3%ADvel" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  
- 
+   ![Snake animation](https://github.com/LucasViniciusF/LucasViniciusF/blob/output/github-contribution-grid-snake.svg)
+
 </div>
